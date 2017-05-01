@@ -1,0 +1,13 @@
+requests
+pandas
+numpy
+json
+datetime
+matplotlib
+seaborn
+dateutil
+urllib
+os
+time
+bs4
+sklearn
